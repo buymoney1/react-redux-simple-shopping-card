@@ -1,0 +1,28 @@
+.header-content_logo {
+  
+  min-width: fit-content;
+}
+.header-content_logo img {
+  width: 1.5rem;
+  margin-right: 0.4rem;
+}
+.header-content_logo > div {
+  display: flex;
+  align-items: center;
+}
+.header-content_logo > p {
+  font-size: 0.8rem;
+  
+}
+.content-logo img {
+  width: 1.5rem;
+}
+.logoDesc{
+  font-weight: 600;
+  font-size: 11px;
+  padding-right: 3px;
+  padding-top: 4px;
+}
+.logoTitle{
+  padding-right: 5px;
+}
